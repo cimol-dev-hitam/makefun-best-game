@@ -1,0 +1,6 @@
+[
+  { "name": "1-title.png", "query": "?shot=title&seed=7&t=6" },
+  { "name": "2-run.png", "query": "?shot=run&seed=23&t=26" },
+  { "name": "3-hud.png", "query": "?shot=hud&seed=23&t=44" },
+  { "name": "4-gameover.png", "query": "?shot=gameover&seed=7&t=99" }
+]
